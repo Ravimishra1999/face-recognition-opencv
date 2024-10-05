@@ -1,0 +1,16 @@
+# Virtual environment folder
+env/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Logs and other system files
+*.log
+
+# Configuration and cache
+config.json
+.cache/
+
+# Output or processed data
+output/faces_detected
